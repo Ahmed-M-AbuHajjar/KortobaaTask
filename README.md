@@ -4,7 +4,7 @@ Node.js CRUD App with MySQL
 This is a Node.js application that uses TypeScript and OOP concepts to create a CRUD (Create, Read, Update, Delete) app that interacts with a MySQL database. The app has two tables: users and products. Each user can only add, edit, or delete their own products.
 
 # Getting Started
-Clone the repository and install the dependencies:
+1. Clone the repository and install the dependencies:
 git clone https://https://github.com/Ahmed-M-AbuHajjar/KortobaaTask.git
 cd KortobaaTask
 npm install
